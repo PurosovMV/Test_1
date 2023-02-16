@@ -45,7 +45,7 @@ ProductArray(array, 3);
 ```
 ### Блок-схема:
 
-![Блок-схема](БлокСхема.jpg)
+![Блок-схема](https://github.com/PurosovMV/Test_1/blob/main/Flowchart/%D0%91%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.jpg?raw=true)
 
 
 P.S. 
